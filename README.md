@@ -1,16 +1,16 @@
-## Hi there 👋
+### bem vindo ao meu perfil
+Meu nome é Adrian Vitor
 
-<!--
-**adrian-77-alt/adrian-77-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou estudando no alura
 
-Here are some ideas to get you started:
+Estou me desenvolvendo no JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+### vocẽ pode entrar em contato comigo
+0000110818991xsp@al.educacao.sp.gov.br
+
+@alurastartestudante
+
+
+i[](<img src="https://media1.tenor.com/m/on61eHxj6OUAAAAC/trollge-troll-smile.gif" alt="a black and white drawing of a troll face with a beard and teeth ."/>![image](https://github.com/user-attachments/assets/cfead0fc-922c-4907-8c92-ef58c1383990)
+)
